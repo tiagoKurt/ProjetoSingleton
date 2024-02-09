@@ -9,7 +9,7 @@ public class Bichos {
             "Camelo", "Cobra", "Coelho", "Cavalo" };
 
     private Bichos() {
-        // Construtor privado para impedir a criação de instâncias diretamente.
+        System.out.println("");
     }
 
     public static Bichos getInstanciaDosBichos() {
